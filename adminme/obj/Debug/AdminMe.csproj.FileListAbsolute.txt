@@ -1,0 +1,11 @@
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\AdminMe.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\AdminMe.pdb
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\Assembly-CSharp-firstpass.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\Assembly-CSharp.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\Rocket.API.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\Rocket.Core.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\Rocket.Unturned.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\bin\Debug\UnityEngine.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\obj\Debug\AdminMe.csprojResolveAssemblyReference.cache
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\obj\Debug\AdminMe.dll
+X:\Projects\Visual Studio\Rocket Plugins\AdminMe\AdminMe\obj\Debug\AdminMe.pdb
